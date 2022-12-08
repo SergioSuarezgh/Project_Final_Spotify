@@ -131,3 +131,6 @@ dmypy.json
 
 # User
 .env
+
+#tiempo
+tiempo/
