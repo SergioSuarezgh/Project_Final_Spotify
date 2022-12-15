@@ -97,22 +97,24 @@ def shazam(canciones):
 canciones=pd.read_excel(r'C:/Users/sersu/IRONHACK/Project_Final_Spotify/data/canciones.xls')
 
 ##Ejecutamos
-hol=shazam(canciones.aut[0])
-print(hol)
+#hol=shazam(canciones.aut[0])
+#print(hol)
 
 lst_canciones=canciones.aut
-
+'''
 from tqdm.notebook import tqdm 
 lst_df=Parallel(n_jobs=-1, verbose=True)(delayed(shazam)(cancion) for cancion in tqdm(lst_canciones[:1000]))
 
-lst_df=Parallel(n_jobs=-1, verbose=True)(delayed(shazam)(cancion) for cancion in tqdm(lst_canciones[1000:2000]))
+lst_df1=Parallel(n_jobs=-1, verbose=True)(delayed(shazam)(cancion) for cancion in tqdm(lst_canciones[1000:2000]))
 
-lst_df=Parallel(n_jobs=-1, verbose=True)(delayed(shazam)(cancion) for cancion in tqdm(lst_canciones[2000:3000]))
+lst_df2=Parallel(n_jobs=-1, verbose=True)(delayed(shazam)(cancion) for cancion in tqdm(lst_canciones[2000:3000]))
+'''
+#lst_df3=Parallel(n_jobs=-1, verbose=True)(delayed(shazam)(cancion) for cancion in tqdm(lst_canciones[3000:4000]))
 
-lst_df=Parallel(n_jobs=-1, verbose=True)(delayed(shazam)(cancion) for cancion in tqdm(lst_canciones[3000:4000]))
+#lst_df4=Parallel(n_jobs=-1, verbose=True)(delayed(shazam)(cancion) for cancion in tqdm(lst_canciones[4000:5000]))
 
-lst_df=Parallel(n_jobs=-1, verbose=True)(delayed(shazam)(cancion) for cancion in tqdm(lst_canciones[4000:5000]))
+#lst_df5=Parallel(n_jobs=-1, verbose=True)(delayed(shazam)(cancion) for cancion in tqdm(lst_canciones[5000:6000]))
 
-lst_df=Parallel(n_jobs=-1, verbose=True)(delayed(shazam)(cancion) for cancion in tqdm(lst_canciones[5000:6000]))
+#lst_df6=Parallel(n_jobs=-1, verbose=True)(delayed(shazam)(cancion) for cancion in tqdm(lst_canciones[6000:6954]))
 
-lst_df=Parallel(n_jobs=-1, verbose=True)(delayed(shazam)(cancion) for cancion in tqdm(lst_canciones[6000:6954]))
+print(lst_df)
