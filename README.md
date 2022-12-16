@@ -7,10 +7,15 @@
 1. Obtener información de Spotify y del tiempo con scrapeo.
 2. Analizar las listas de Spotify desde el 2017 en adelante
 3. Establecer si hay una relación entre las reproducciones y varios factores:
+
         3.1 La distribución semanal
+
         3.2 La estacionalidad
+
         3.3 El Covid
+
         3.4 El clima
+        
 4. Dar conclusiones
 
 ##Herramientas y fuentes utilizadas
@@ -26,7 +31,9 @@
 ##Obtención y limpieza de datos
 
 🎶 Extracción mediante Selenium de la base de datos de spoty chart 
+
 ☀️ Extracción de archivos mediante Selenium de la página de la Aemet
+
 🫧 Limpieza de los datos extraidos
 
 
