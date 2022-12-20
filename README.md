@@ -21,13 +21,13 @@
 
 ##Herramientas y fuentes utilizadas
 
-![img|100](img/python.jpeg) Python
+![img|5](img/python.jpeg) Python
 
-![img|100](img/power_bi.jpeg) Power Bi  
+![img|5](img/power_bi.jpeg) Power Bi  
 
-![img|100](img/spoty%20chart.png) pagina de Spotify chart 
+![img|5](img/spoty%20chart.png) pagina de Spotify chart 
 
-![img|100](img/aemet.png) pagina de la aemet 
+![img|5](img/aemet.png) pagina de la aemet 
 
 ##Obtención y limpieza de datos
 
