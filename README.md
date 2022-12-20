@@ -23,7 +23,8 @@
 
 
 Python
-![img|5](img/python.jpeg) 
+![image](https://user-images.githubusercontent.com/100074946/208688729-88bf5fdc-b5be-4280-8468-ff195efc0ce8.png)
+
 
 Power Bi 
 ![img|5](img/power_bi.jpeg)  
@@ -40,7 +41,7 @@ pagina de la aemet
 
 ☀️ Extracción de archivos mediante Selenium de la página de la Aemet
 
-   Limpieza de los datos extraidos
+🛁 Limpieza de los datos extraidos
 
 
 ##Conclusion:
