@@ -21,13 +21,18 @@
 
 ##Herramientas y fuentes utilizadas
 
-![img|5](img/python.jpeg) Python
 
-![img|5](img/power_bi.jpeg) Power Bi  
+Python
+![img|5](img/python.jpeg) 
 
-![img|5](img/spoty%20chart.png) pagina de Spotify chart 
+Power Bi 
+![img|5](img/power_bi.jpeg)  
 
-![img|5](img/aemet.png) pagina de la aemet 
+pagina de Spotify chart 
+![img|5](img/spoty%20chart.png) 
+
+pagina de la aemet 
+![img|5](img/aemet.png) 
 
 ##Obtención y limpieza de datos
 
@@ -35,13 +40,15 @@
 
 ☀️ Extracción de archivos mediante Selenium de la página de la Aemet
 
-🫧 Limpieza de los datos extraidos
+   Limpieza de los datos extraidos
 
 
 ##Conclusion:
 
  - Nuestra hipotesis sobre que diferentes eventos puede influir en las listas de Spotify llega a las siguientes
         conclusiones:
+        
+        
          1. No hay relación entre el clima  o la temperatura a nivel global con respecto a las reproducciones
          
          2. Durante el covid si se notó una bajada y sobre todo al finalizar el mismo 
@@ -49,7 +56,7 @@
          3 La estacionalidad y el lugar de la semana si influye un poco más en las listas. Sobre todo se nota una 
             bajada en el invierno en el caso estacionaL y los domingos en el caso de las semanas
 
-        4. Tambiémn hemos comprobado que las variaciones en la lista son más significativas hacia arriba que hacia
+         4. Tambiémn hemos comprobado que las variaciones en la lista son más significativas hacia arriba que hacia
             abajo
 
 
