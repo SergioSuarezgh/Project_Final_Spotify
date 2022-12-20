@@ -22,13 +22,13 @@
 ##Herramientas y fuentes utilizadas
 
 
-Python
+ - Python
 
-Power Bi 
+ - Power Bi 
   
-pagina de Spotify chart 
+ - pagina de Spotify chart 
  
-pagina de la aemet 
+ - pagina de la aemet 
  
 
 ##Obtención y limpieza de datos
