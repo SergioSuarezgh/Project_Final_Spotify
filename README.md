@@ -1,6 +1,8 @@
 # Project_Final_Spotify
 
-![Ironhack logo](https://i.imgur.com/1QgrNNw.png)     ![img](img/logo_negroblanco.png)
+![img](img/logo_negroblanco.png)
+
+![Ironhack logo](https://i.imgur.com/1QgrNNw.png)     
 
 ##OBJETIVO 🎯:
 
