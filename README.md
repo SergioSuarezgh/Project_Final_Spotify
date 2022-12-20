@@ -23,17 +23,13 @@
 
 
 Python
-![image](https://user-images.githubusercontent.com/100074946/208688729-88bf5fdc-b5be-4280-8468-ff195efc0ce8.png)
-
 
 Power Bi 
-![img|5](img/power_bi.jpeg)  
-
+  
 pagina de Spotify chart 
-![img|5](img/spoty%20chart.png) 
-
+ 
 pagina de la aemet 
-![img|5](img/aemet.png) 
+ 
 
 ##Obtención y limpieza de datos
 
