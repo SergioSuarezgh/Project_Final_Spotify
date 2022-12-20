@@ -1,6 +1,5 @@
 # Project_Final_Spotify
 
-![img](img/logo_negroblanco.png)
 
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)     
 
@@ -22,13 +21,13 @@
 
 ##Herramientas y fuentes utilizadas
 
-![img](img/python.jpeg) Python
+![img|100](img/python.jpeg) Python
 
-![img](img/power_bi.jpeg) Power Bi  
+![img|100](img/power_bi.jpeg) Power Bi  
 
-![img](img/spoty%20chart.png) pagina de Spotify chart 
+![img|100](img/spoty%20chart.png) pagina de Spotify chart 
 
-![img](img/aemet.png) pagina de la aemet 
+![img|100](img/aemet.png) pagina de la aemet 
 
 ##Obtención y limpieza de datos
 
